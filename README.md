@@ -1,2 +1,3 @@
 # hello_amit
-test repo by amit
+this is copy of master named with readme.edit
+thanks amit kumar
